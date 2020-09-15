@@ -1,0 +1,2 @@
+D:\Works\Personal\Unity\Temp\UWPAssetBundle\Assets\Dependencies\netstandard2.0\UWPAssetBundle.Dependencies.msb4u.deps.json
+D:\Works\Personal\Unity\Temp\UWPAssetBundle\MSBuild\Output\obj\Dependencies\Release\netstandard2.0\UWPAssetBundle.Dependencies.msb4u.csprojAssemblyReference.cache

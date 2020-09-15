@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "601ZMz+8WyinKE8HoI48Wi6iAw7Xi1r9WcV7YYArMxpD6iSvlEKxbzPp64uxmFNNpt43lOGWubkjYyGvbgA5pA==",
+  "success": true,
+  "projectFilePath": "D:\\Works\\Personal\\Unity\\Temp\\UWPAssetBundle\\Assets\\UWPAssetBundle.Dependencies.msb4u.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aghil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aghil\\.nuget\\packages\\msbuildforunity\\0.9.1-123842\\msbuildforunity.0.9.1-123842.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
